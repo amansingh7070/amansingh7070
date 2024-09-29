@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align ="right" alt ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw3cfzL_avSeo5ZMtlgLFSOO&ust=1727694602366000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCSlbKC6IgDFQAAAAAdAAAAABAE">
+<img align ="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVTWNi6GuKV2SjyLAzdjAP-hNqecS3nvVC89OnaIysQ&s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh7070&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh7070" /> </p>
