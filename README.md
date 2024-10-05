@@ -49,7 +49,7 @@
 
 ## 📟 GitHub Stats:
 
-<img src="https://github.com/amansingh7070/?username=amansingh7070&style=for-the-badge" alt="amansingh7070" />
+<img src="https://komarev.com/ghpvc/?username=amansingh7070&style=for-the-badge" alt="amansingh" />
 
 <table>
   <tr>
